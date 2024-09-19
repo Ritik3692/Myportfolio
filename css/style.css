@@ -114,6 +114,7 @@ a>p {
     padding: 0 8.4rem;
     margin: auto;
     max-width: 1700px;
+    scroll-behavior: smooth;
 }
 
 /* contact icon dropdon */
